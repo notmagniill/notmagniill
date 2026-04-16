@@ -15,5 +15,5 @@
   <br/>
   <a href="https://bsky.app/profile/notmagniill.bsky.social"><img src="/assets/bsky.png" width = 450></a>
   <br/>
-  <a href=https://www.youtube.com/@notmagniill"><img src="/assets/youtube.png" width = 450></a>
+  <a href="https://www.youtube.com/@notmagniill"><img src="/assets/youtube.png" width = 450></a>
 </div>
